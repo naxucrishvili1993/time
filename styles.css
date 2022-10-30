@@ -5,11 +5,7 @@ body {
   text-align: center;
 }
 
-.container {
-  box-sizing: border-box;
-}
-
 h1 {
-  padding: 10px;
-  font-size: 90px;
+  margin: 10px;
+  font-size: 60px;
 }
