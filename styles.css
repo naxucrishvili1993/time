@@ -5,6 +5,11 @@ body {
   text-align: center;
 }
 
+.container {
+  box-sizing: border-box;
+}
+
 h1 {
-  font-size: 100px;
+  padding: 10px;
+  font-size: 90px;
 }
